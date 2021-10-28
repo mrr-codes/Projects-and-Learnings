@@ -10,8 +10,8 @@ F360 Designs
 5) https://a360.co/30ZlEh6
 6) https://a360.co/3m96gqs
 
-App Project 
+App Project-
 https://play.google.com/store/apps/details?id=com.startup.akt
 
-Water Alarm Project for Innovative Engineering Course by Fracktal Works
+Water Alarm Project for Innovative Engineering Course by Fracktal Works-
 https://hackaday.io/project/181461-water-alarm-with-rpi#j-discussions-title
