@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+  <!--<include file="$(find turtlebot_bringup)/launch/minimal.launch"/>-->
+  <!--<include file="$(find turtlebot_bringup)/launch/3dsensor.launch"/>-->
+  <include file="$(find turtlebot_gazebo)/launch/turtlebot_world.launch"/>
+  
+  <node name="survilBot" pkg="survil_bot_pkg" type="telegramBot.py" output="screen" />
+  <!-- <node name="controller" pkg="experiment_05" type="controller.py" output="screen"/> -->
+</launch>
