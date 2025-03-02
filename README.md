@@ -1,6 +1,6 @@
 # Projects-and-Learnings
 
-All Projects are Listed on my site- 
+All projects and details are listed on my site- 
 https://manas-ramidi.github.io/
 
 App Project-
